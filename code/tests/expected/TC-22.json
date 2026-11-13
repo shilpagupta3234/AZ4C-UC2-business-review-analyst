@@ -1,0 +1,25 @@
+{
+  "case_id": "TC-22",
+  "decision": "answered",
+  "reason_code": [
+    "ANSWERED"
+  ],
+  "amount": {
+    "value": -1061391.68,
+    "tolerance": 1.0
+  },
+  "key_numbers": [
+    {
+      "value": 4676887.47,
+      "tolerance": 1.0
+    },
+    {
+      "value": 5738279.15,
+      "tolerance": 1.0
+    }
+  ],
+  "must_cite": [
+    "commentary/2026-07_east.md"
+  ],
+  "needs_human": true
+}

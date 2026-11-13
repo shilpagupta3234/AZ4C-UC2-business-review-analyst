@@ -1,0 +1,13 @@
+promo_id,name,region_id,start_date,end_date,discount_pct,is_synthetic
+PR-01,Summer Sip,R1,2025-04-15,2025-05-15,8.0,1
+PR-02,Monsoon Munch,R4,2025-07-01,2025-07-31,10.0,1
+PR-03,Onam Treats,R2,2025-08-20,2025-09-05,9.0,1
+PR-04,Durga Puja Delights,R3,2025-09-22,2025-10-05,10.0,1
+PR-05,Diwali Dhamaka,R1,2025-10-10,2025-10-25,12.0,1
+PR-06,Diwali Dhamaka,R4,2025-10-10,2025-10-25,12.0,1
+PR-07,Winter Warmers,R5,2025-12-01,2025-12-31,7.0,1
+PR-08,Pongal Fresh Start,R2,2026-01-10,2026-01-20,8.0,1
+PR-09,Holi Hai,R1,2026-02-25,2026-03-10,9.0,1
+PR-10,Monsoon Munch,R4,2026-07-01,2026-07-31,10.0,1
+PR-11,Festive Saver,R2,2026-09-01,2026-09-30,15.0,1
+PR-12,Ganesh Utsav Specials,R4,2026-08-25,2026-09-07,8.0,1

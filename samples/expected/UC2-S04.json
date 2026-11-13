@@ -1,0 +1,19 @@
+{
+  "case_id": "UC2-S04",
+  "decision": "answered",
+  "reason_code": [
+    "ANSWERED"
+  ],
+  "amount": {
+    "value": 6015889.56,
+    "tolerance": 1.0
+  },
+  "key_numbers": [
+    {
+      "value": 6015889.56,
+      "tolerance": 1.0
+    }
+  ],
+  "must_cite": [],
+  "needs_human": true
+}

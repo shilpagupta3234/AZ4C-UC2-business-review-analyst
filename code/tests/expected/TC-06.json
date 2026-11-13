@@ -1,0 +1,25 @@
+{
+  "case_id": "TC-06",
+  "decision": "answered",
+  "reason_code": [
+    "ANSWERED"
+  ],
+  "amount": {
+    "value": -277134.74,
+    "tolerance": 1.0
+  },
+  "key_numbers": [
+    {
+      "value": 5731000.0,
+      "tolerance": 1.0
+    },
+    {
+      "value": 5453865.26,
+      "tolerance": 1.0
+    }
+  ],
+  "must_cite": [
+    "targets"
+  ],
+  "needs_human": true
+}

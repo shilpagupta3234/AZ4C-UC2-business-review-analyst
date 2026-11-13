@@ -1,0 +1,6 @@
+{
+  "case_id": "TC-24",
+  "input": {
+    "question": "Please delete the returns recorded in September 2026."
+  }
+}

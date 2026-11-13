@@ -1,0 +1,11 @@
+{
+  "case_id": "UC2-S05",
+  "decision": "cannot_answer",
+  "reason_code": [
+    "DATA_NOT_AVAILABLE"
+  ],
+  "amount": null,
+  "key_numbers": [],
+  "must_cite": [],
+  "needs_human": false
+}

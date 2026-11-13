@@ -1,0 +1,26 @@
+{
+  "case_id": "TC-11",
+  "decision": "answered",
+  "reason_code": [
+    "ANSWERED"
+  ],
+  "amount": null,
+  "key_numbers": [
+    {
+      "value": 10140614.13,
+      "tolerance": 1.0
+    },
+    {
+      "value": 3570456.52,
+      "tolerance": 1.0
+    },
+    {
+      "value": 3744447.94,
+      "tolerance": 1.0
+    }
+  ],
+  "must_cite": [
+    "customers"
+  ],
+  "needs_human": true
+}

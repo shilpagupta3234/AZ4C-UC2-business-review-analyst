@@ -1,0 +1,301 @@
+customer_id,name,region_id,channel,is_synthetic
+C-1001,QuickBasket North Hub,R1,E-commerce,1
+C-1002,CartNow North Hub,R1,E-commerce,1
+C-1003,DailyDash North Hub,R1,E-commerce,1
+C-1004,GroceryGo North Hub,R1,E-commerce,1
+C-1005,FreshKart North Hub,R1,E-commerce,1
+C-1006,BuyWise North Hub,R1,E-commerce,1
+C-1007,"Patel Bazaar, Delhi",R1,Modern Trade,1
+C-1008,"Joshi Super Bazaar, Chandigarh",R1,Modern Trade,1
+C-1009,"Saxena Super Bazaar, Chandigarh",R1,Modern Trade,1
+C-1010,"Saxena Traders, Lucknow",R1,Modern Trade,1
+C-1011,"Sharma Supermart, Delhi",R1,Modern Trade,1
+C-1012,"Gupta Supermart, Chandigarh",R1,Modern Trade,1
+C-1013,"Sharma Traders, Jaipur",R1,Modern Trade,1
+C-1014,"Das Retail, Jaipur",R1,Modern Trade,1
+C-1015,"Mishra Bazaar, Chandigarh",R1,Modern Trade,1
+C-1016,"Menon Supermart, Jaipur",R1,Modern Trade,1
+C-1017,"Banerjee Super Bazaar, Jaipur",R1,Modern Trade,1
+C-1018,"Gupta Traders, Lucknow",R1,Modern Trade,1
+C-1019,"Saxena Fresh Mart, Delhi",R1,Modern Trade,1
+C-1020,"Mishra Bazaar, Chandigarh",R1,Modern Trade,1
+C-1021,"Shetty Supermart, Chandigarh",R1,Modern Trade,1
+C-1022,"Saxena Super Bazaar, Chandigarh",R1,Modern Trade,1
+C-1023,"Patel Retail, Chandigarh",R1,General Trade,1
+C-1024,"Rao Super Bazaar, Jaipur",R1,General Trade,1
+C-1025,"Shetty Traders, Delhi",R1,General Trade,1
+C-1026,"Saxena Provisions, Lucknow",R1,General Trade,1
+C-1027,"Iyer Super Bazaar, Delhi",R1,General Trade,1
+C-1028,"Chauhan Retail, Chandigarh",R1,General Trade,1
+C-1029,"Verma Traders, Lucknow",R1,General Trade,1
+C-1030,"Patel Traders, Chandigarh",R1,General Trade,1
+C-1031,"Pillai Fresh Mart, Chandigarh",R1,General Trade,1
+C-1032,"Gupta Super Bazaar, Chandigarh",R1,General Trade,1
+C-1033,"Rao Retail, Lucknow",R1,General Trade,1
+C-1034,"Gupta Fresh Mart, Delhi",R1,General Trade,1
+C-1035,"Iyer Kirana, Chandigarh",R1,General Trade,1
+C-1036,"Menon Traders, Jaipur",R1,General Trade,1
+C-1037,"Das Fresh Mart, Chandigarh",R1,General Trade,1
+C-1038,"Agarwal Super Bazaar, Chandigarh",R1,General Trade,1
+C-1039,"Shetty Super Bazaar, Delhi",R1,General Trade,1
+C-1040,"Gupta Bazaar, Chandigarh",R1,General Trade,1
+C-1041,"Patel Traders, Jaipur",R1,General Trade,1
+C-1042,"Agarwal Kirana, Chandigarh",R1,General Trade,1
+C-1043,"Bose Supermart, Jaipur",R1,General Trade,1
+C-1044,"Bose Bazaar, Delhi",R1,General Trade,1
+C-1045,"Das Retail, Lucknow",R1,General Trade,1
+C-1046,"Agarwal General Stores, Delhi",R1,General Trade,1
+C-1047,"Sharma Traders, Delhi",R1,General Trade,1
+C-1048,"Chauhan Provisions, Lucknow",R1,General Trade,1
+C-1049,"Patel General Stores, Jaipur",R1,General Trade,1
+C-1050,"Mishra Kirana, Delhi",R1,General Trade,1
+C-1051,"Kulkarni Traders, Lucknow",R1,General Trade,1
+C-1052,"Pillai Provisions, Chandigarh",R1,General Trade,1
+C-1053,"Saxena Kirana, Jaipur",R1,General Trade,1
+C-1054,"Banerjee Retail, Lucknow",R1,General Trade,1
+C-1055,"Verma Fresh Mart, Chandigarh",R1,General Trade,1
+C-1056,"Rao Kirana, Lucknow",R1,General Trade,1
+C-1057,"Rao General Stores, Delhi",R1,General Trade,1
+C-1058,"Rao Supermart, Delhi",R1,General Trade,1
+C-1059,"Mishra Bazaar, Delhi",R1,General Trade,1
+C-1060,"Sharma Super Bazaar, Chandigarh",R1,General Trade,1
+C-1061,QuickBasket South Hub,R2,E-commerce,1
+C-1062,CartNow South Hub,R2,E-commerce,1
+C-1063,DailyDash South Hub,R2,E-commerce,1
+C-1064,GroceryGo South Hub,R2,E-commerce,1
+C-1065,FreshKart South Hub,R2,E-commerce,1
+C-1066,BuyWise South Hub,R2,E-commerce,1
+C-1067,"Annapoorna Supermart, Chennai",R2,Modern Trade,1
+C-1068,"Kulkarni Supermart, Kochi",R2,Modern Trade,1
+C-1069,"Agarwal Kirana, Bengaluru",R2,Modern Trade,1
+C-1070,"Saxena Super Bazaar, Bengaluru",R2,Modern Trade,1
+C-1071,"Shetty Bazaar, Kochi",R2,Modern Trade,1
+C-1072,"Chauhan Provisions, Chennai",R2,Modern Trade,1
+C-1073,"Pillai Retail, Chennai",R2,Modern Trade,1
+C-1074,"Das Kirana, Chennai",R2,Modern Trade,1
+C-1075,"Pillai General Stores, Kochi",R2,Modern Trade,1
+C-1076,"Das Traders, Chennai",R2,Modern Trade,1
+C-1077,"Verma Super Bazaar, Bengaluru",R2,Modern Trade,1
+C-1078,"Menon Kirana, Bengaluru",R2,Modern Trade,1
+C-1079,"Reddy Retail, Hyderabad",R2,Modern Trade,1
+C-1080,"Shetty Super Bazaar, Kochi",R2,Modern Trade,1
+C-1081,"Banerjee Retail, Hyderabad",R2,Modern Trade,1
+C-1082,"Reddy Bazaar, Bengaluru",R2,Modern Trade,1
+C-1083,"Nair Traders, Kochi",R2,General Trade,1
+C-1084,"Shetty Fresh Mart, Kochi",R2,General Trade,1
+C-1085,"Reddy Bazaar, Kochi",R2,General Trade,1
+C-1086,"Agarwal Supermart, Hyderabad",R2,General Trade,1
+C-1087,"Patel Provisions, Bengaluru",R2,General Trade,1
+C-1088,"Sharma Supermart, Kochi",R2,General Trade,1
+C-1089,"Kulkarni Retail, Bengaluru",R2,General Trade,1
+C-1090,"Sharma Bazaar, Bengaluru",R2,General Trade,1
+C-1091,"Mishra Super Bazaar, Bengaluru",R2,General Trade,1
+C-1092,"Patel Fresh Mart, Bengaluru",R2,General Trade,1
+C-1093,"Saxena Fresh Mart, Hyderabad",R2,General Trade,1
+C-1094,"Pillai Kirana, Chennai",R2,General Trade,1
+C-1095,"Nair Supermart, Kochi",R2,General Trade,1
+C-1096,"Reddy Supermart, Chennai",R2,General Trade,1
+C-1097,"Mishra Kirana, Chennai",R2,General Trade,1
+C-1098,"Menon Bazaar, Hyderabad",R2,General Trade,1
+C-1099,"Saxena Supermart, Hyderabad",R2,General Trade,1
+C-1100,"Kulkarni Kirana, Hyderabad",R2,General Trade,1
+C-1101,"Nair Supermart, Chennai",R2,General Trade,1
+C-1102,"Shetty Fresh Mart, Kochi",R2,General Trade,1
+C-1103,"Sharma General Stores, Chennai",R2,General Trade,1
+C-1104,"Joshi General Stores, Hyderabad",R2,General Trade,1
+C-1105,"Patel Supermart, Hyderabad",R2,General Trade,1
+C-1106,"Kulkarni Traders, Chennai",R2,General Trade,1
+C-1107,"Rao Bazaar, Bengaluru",R2,General Trade,1
+C-1108,"Chauhan Traders, Kochi",R2,General Trade,1
+C-1109,"Patel Bazaar, Hyderabad",R2,General Trade,1
+C-1110,"Rao Fresh Mart, Hyderabad",R2,General Trade,1
+C-1111,"Iyer Retail, Chennai",R2,General Trade,1
+C-1112,"Gupta Bazaar, Hyderabad",R2,General Trade,1
+C-1113,"Patel Fresh Mart, Kochi",R2,General Trade,1
+C-1114,"Kulkarni General Stores, Hyderabad",R2,General Trade,1
+C-1115,"Das Super Bazaar, Chennai",R2,General Trade,1
+C-1116,"Patel Kirana, Chennai",R2,General Trade,1
+C-1117,"Patel General Stores, Bengaluru",R2,General Trade,1
+C-1118,"Menon Bazaar, Hyderabad",R2,General Trade,1
+C-1119,"Sharma Retail, Bengaluru",R2,General Trade,1
+C-1120,"Mishra Retail, Kochi",R2,General Trade,1
+C-1121,QuickBasket East Hub,R3,E-commerce,1
+C-1122,CartNow East Hub,R3,E-commerce,1
+C-1123,DailyDash East Hub,R3,E-commerce,1
+C-1124,GroceryGo East Hub,R3,E-commerce,1
+C-1125,FreshKart East Hub,R3,E-commerce,1
+C-1126,BuyWise East Hub,R3,E-commerce,1
+C-1127,"Rao Provisions, Guwahati",R3,Modern Trade,1
+C-1128,"Joshi Kirana, Bhubaneswar",R3,Modern Trade,1
+C-1129,"Pillai General Stores, Guwahati",R3,Modern Trade,1
+C-1130,"Nair Kirana, Bhubaneswar",R3,Modern Trade,1
+C-1131,"Sharma General Stores, Patna",R3,Modern Trade,1
+C-1132,"Pillai Traders, Guwahati",R3,Modern Trade,1
+C-1133,"Nair Bazaar, Bhubaneswar",R3,Modern Trade,1
+C-1134,"Saxena Supermart, Bhubaneswar",R3,Modern Trade,1
+C-1135,"Pillai General Stores, Patna",R3,Modern Trade,1
+C-1136,"Kulkarni Super Bazaar, Patna",R3,Modern Trade,1
+C-1137,"Iyer General Stores, Bhubaneswar",R3,Modern Trade,1
+C-1138,"Bose General Stores, Bhubaneswar",R3,Modern Trade,1
+C-1139,"Menon Kirana, Guwahati",R3,Modern Trade,1
+C-1140,"Mishra Provisions, Patna",R3,Modern Trade,1
+C-1141,"Kulkarni Provisions, Patna",R3,Modern Trade,1
+C-1142,"Mishra Traders, Guwahati",R3,Modern Trade,1
+C-1143,"Pillai Traders, Patna",R3,General Trade,1
+C-1144,"Das Kirana, Guwahati",R3,General Trade,1
+C-1145,"Verma Traders, Kolkata",R3,General Trade,1
+C-1146,"Mishra Super Bazaar, Guwahati",R3,General Trade,1
+C-1147,"Iyer Kirana, Kolkata",R3,General Trade,1
+C-1148,"Gupta Bazaar, Patna",R3,General Trade,1
+C-1149,"Verma Supermart, Kolkata",R3,General Trade,1
+C-1150,"Pillai Provisions, Patna",R3,General Trade,1
+C-1151,"Saxena General Stores, Guwahati",R3,General Trade,1
+C-1152,"Rao Super Bazaar, Bhubaneswar",R3,General Trade,1
+C-1153,"Menon Supermart, Kolkata",R3,General Trade,1
+C-1154,"Verma Retail, Patna",R3,General Trade,1
+C-1155,"Pillai Fresh Mart, Patna",R3,General Trade,1
+C-1156,"Iyer Provisions, Bhubaneswar",R3,General Trade,1
+C-1157,"Gupta Fresh Mart, Patna",R3,General Trade,1
+C-1158,"Mishra Kirana, Guwahati",R3,General Trade,1
+C-1159,"Das General Stores, Guwahati",R3,General Trade,1
+C-1160,"Shetty Bazaar, Bhubaneswar",R3,General Trade,1
+C-1161,"Menon General Stores, Bhubaneswar",R3,General Trade,1
+C-1162,"Kulkarni Super Bazaar, Bhubaneswar",R3,General Trade,1
+C-1163,"Reddy General Stores, Kolkata",R3,General Trade,1
+C-1164,"Menon General Stores, Patna",R3,General Trade,1
+C-1165,"Banerjee Bazaar, Patna",R3,General Trade,1
+C-1166,"Das Super Bazaar, Bhubaneswar",R3,General Trade,1
+C-1167,"Chauhan Provisions, Bhubaneswar",R3,General Trade,1
+C-1168,"Patel Bazaar, Guwahati",R3,General Trade,1
+C-1169,"Patel Supermart, Guwahati",R3,General Trade,1
+C-1170,"Nair Fresh Mart, Kolkata",R3,General Trade,1
+C-1171,"Mishra Traders, Guwahati",R3,General Trade,1
+C-1172,"Patel Super Bazaar, Bhubaneswar",R3,General Trade,1
+C-1173,"Mishra Traders, Patna",R3,General Trade,1
+C-1174,"Banerjee Supermart, Kolkata",R3,General Trade,1
+C-1175,"Bose Fresh Mart, Patna",R3,General Trade,1
+C-1176,"Joshi Kirana, Patna",R3,General Trade,1
+C-1177,"Shetty Super Bazaar, Patna",R3,General Trade,1
+C-1178,"Kulkarni Traders, Guwahati",R3,General Trade,1
+C-1179,"Kulkarni Kirana, Bhubaneswar",R3,General Trade,1
+C-1180,"Agarwal Provisions, Patna",R3,General Trade,1
+C-1181,QuickBasket West Hub,R4,E-commerce,1
+C-1182,CartNow West Hub,R4,E-commerce,1
+C-1183,DailyDash West Hub,R4,E-commerce,1
+C-1184,GroceryGo West Hub,R4,E-commerce,1
+C-1185,FreshKart West Hub,R4,E-commerce,1
+C-1186,BuyWise West Hub,R4,E-commerce,1
+C-1187,"Mishra Retail, Surat",R4,Modern Trade,1
+C-1188,"Das Kirana, Surat",R4,Modern Trade,1
+C-1189,"Saxena Kirana, Surat",R4,Modern Trade,1
+C-1190,"Nair Bazaar, Mumbai",R4,Modern Trade,1
+C-1191,"Kulkarni Fresh Mart, Surat",R4,Modern Trade,1
+C-1192,"Nair Kirana, Ahmedabad",R4,Modern Trade,1
+C-1193,"Joshi Bazaar, Pune",R4,Modern Trade,1
+C-1194,"Pillai Supermart, Ahmedabad",R4,Modern Trade,1
+C-1195,"Gupta Traders, Surat",R4,Modern Trade,1
+C-1196,"Rao General Stores, Ahmedabad",R4,Modern Trade,1
+C-1197,"Shetty Bazaar, Mumbai",R4,Modern Trade,1
+C-1198,"Bose Super Bazaar, Pune",R4,Modern Trade,1
+C-1199,"Shetty Bazaar, Ahmedabad",R4,Modern Trade,1
+C-1200,"Iyer Retail, Pune",R4,Modern Trade,1
+C-1201,"Sharma Fresh Mart, Ahmedabad",R4,Modern Trade,1
+C-1202,"Verma Bazaar, Surat",R4,Modern Trade,1
+C-1203,"Bose Traders, Ahmedabad",R4,General Trade,1
+C-1204,"Sharma General Stores, Pune",R4,General Trade,1
+C-1205,"Patel Fresh Mart, Ahmedabad",R4,General Trade,1
+C-1206,"Sharma Provisions, Surat",R4,General Trade,1
+C-1207,"Menon Fresh Mart, Ahmedabad",R4,General Trade,1
+C-1208,"Banerjee Super Bazaar, Pune",R4,General Trade,1
+C-1209,"Pillai General Stores, Mumbai",R4,General Trade,1
+C-1210,"Verma Bazaar, Pune",R4,General Trade,1
+C-1211,"Agarwal Provisions, Pune",R4,General Trade,1
+C-1212,"Gupta Supermart, Surat",R4,General Trade,1
+C-1213,"Menon Super Bazaar, Pune",R4,General Trade,1
+C-1214,"Patel General Stores, Ahmedabad",R4,General Trade,1
+C-1215,"Shetty General Stores, Pune",R4,General Trade,1
+C-1216,"Pillai Super Bazaar, Pune",R4,General Trade,1
+C-1217,"Bose Bazaar, Ahmedabad",R4,General Trade,1
+C-1218,"Mishra Bazaar, Surat",R4,General Trade,1
+C-1219,"Nair Traders, Ahmedabad",R4,General Trade,1
+C-1220,"Nair General Stores, Surat",R4,General Trade,1
+C-1221,"Verma General Stores, Surat",R4,General Trade,1
+C-1222,"Mishra Fresh Mart, Surat",R4,General Trade,1
+C-1223,"Das Bazaar, Ahmedabad",R4,General Trade,1
+C-1224,"Menon Retail, Ahmedabad",R4,General Trade,1
+C-1225,"Das General Stores, Surat",R4,General Trade,1
+C-1226,"Banerjee Super Bazaar, Ahmedabad",R4,General Trade,1
+C-1227,"Bose Supermart, Ahmedabad",R4,General Trade,1
+C-1228,"Bose Bazaar, Ahmedabad",R4,General Trade,1
+C-1229,"Mishra Kirana, Mumbai",R4,General Trade,1
+C-1230,"Pillai Kirana, Ahmedabad",R4,General Trade,1
+C-1231,"Menon Super Bazaar, Surat",R4,General Trade,1
+C-1232,"Patel Provisions, Mumbai",R4,General Trade,1
+C-1233,"Agarwal Provisions, Pune",R4,General Trade,1
+C-1234,"Shetty Super Bazaar, Pune",R4,General Trade,1
+C-1235,"Menon Provisions, Ahmedabad",R4,General Trade,1
+C-1236,"Bose Kirana, Ahmedabad",R4,General Trade,1
+C-1237,"Mishra Retail, Pune",R4,General Trade,1
+C-1238,"Verma Super Bazaar, Pune",R4,General Trade,1
+C-1239,"Verma Kirana, Mumbai",R4,General Trade,1
+C-1240,"Iyer Fresh Mart, Ahmedabad",R4,General Trade,1
+C-1241,QuickBasket Central Hub,R5,E-commerce,1
+C-1242,CartNow Central Hub,R5,E-commerce,1
+C-1243,DailyDash Central Hub,R5,E-commerce,1
+C-1244,GroceryGo Central Hub,R5,E-commerce,1
+C-1245,FreshKart Central Hub,R5,E-commerce,1
+C-1246,BuyWise Central Hub,R5,E-commerce,1
+C-1247,"Reddy Kirana, Indore",R5,Modern Trade,1
+C-1248,"Pillai Bazaar, Nagpur",R5,Modern Trade,1
+C-1249,"Agarwal Kirana, Nagpur",R5,Modern Trade,1
+C-1250,"Iyer Kirana, Nagpur",R5,Modern Trade,1
+C-1251,"Shetty Traders, Bhopal",R5,Modern Trade,1
+C-1252,"Gupta Provisions, Indore",R5,Modern Trade,1
+C-1253,"Pillai Supermart, Raipur",R5,Modern Trade,1
+C-1254,"Shetty Kirana, Indore",R5,Modern Trade,1
+C-1255,"Verma Super Bazaar, Bhopal",R5,Modern Trade,1
+C-1256,"Bose General Stores, Bhopal",R5,Modern Trade,1
+C-1257,"Patel Bazaar, Indore",R5,Modern Trade,1
+C-1258,"Kulkarni General Stores, Nagpur",R5,Modern Trade,1
+C-1259,"Menon Provisions, Bhopal",R5,Modern Trade,1
+C-1260,"Shetty Retail, Nagpur",R5,Modern Trade,1
+C-1261,"Reddy Provisions, Nagpur",R5,Modern Trade,1
+C-1262,"Bose Provisions, Indore",R5,Modern Trade,1
+C-1263,"Reddy Super Bazaar, Raipur",R5,General Trade,1
+C-1264,"Shetty Traders, Indore",R5,General Trade,1
+C-1265,"Das Fresh Mart, Raipur",R5,General Trade,1
+C-1266,"Pillai Traders, Bhopal",R5,General Trade,1
+C-1267,"Das Provisions, Bhopal",R5,General Trade,1
+C-1268,"Banerjee Bazaar, Nagpur",R5,General Trade,1
+C-1269,"Patel Kirana, Nagpur",R5,General Trade,1
+C-1270,"Shetty Provisions, Raipur",R5,General Trade,1
+C-1271,"Sharma Super Bazaar, Nagpur",R5,General Trade,1
+C-1272,"Nair Fresh Mart, Indore",R5,General Trade,1
+C-1273,"Rao General Stores, Raipur",R5,General Trade,1
+C-1274,"Menon Traders, Indore",R5,General Trade,1
+C-1275,"Mishra Traders, Nagpur",R5,General Trade,1
+C-1276,"Patel Kirana, Nagpur",R5,General Trade,1
+C-1277,"Mishra Traders, Raipur",R5,General Trade,1
+C-1278,"Chauhan General Stores, Indore",R5,General Trade,1
+C-1279,"Nair Supermart, Raipur",R5,General Trade,1
+C-1280,"Agarwal Bazaar, Bhopal",R5,General Trade,1
+C-1281,"Nair Fresh Mart, Bhopal",R5,General Trade,1
+C-1282,"Banerjee General Stores, Bhopal",R5,General Trade,1
+C-1283,"Menon Traders, Bhopal",R5,General Trade,1
+C-1284,"Rao Traders, Raipur",R5,General Trade,1
+C-1285,"Pillai General Stores, Nagpur",R5,General Trade,1
+C-1286,"Kulkarni Kirana, Bhopal",R5,General Trade,1
+C-1287,"Patel Retail, Bhopal",R5,General Trade,1
+C-1288,"Reddy Super Bazaar, Indore",R5,General Trade,1
+C-1289,"Sharma General Stores, Bhopal",R5,General Trade,1
+C-1290,"Chauhan Super Bazaar, Bhopal",R5,General Trade,1
+C-1291,"Kulkarni Kirana, Indore",R5,General Trade,1
+C-1292,"Bose Provisions, Indore",R5,General Trade,1
+C-1293,"Agarwal Provisions, Raipur",R5,General Trade,1
+C-1294,"Joshi Super Bazaar, Indore",R5,General Trade,1
+C-1295,"Shetty General Stores, Raipur",R5,General Trade,1
+C-1296,"Joshi Kirana, Raipur",R5,General Trade,1
+C-1297,"Das Supermart, Raipur",R5,General Trade,1
+C-1298,"Saxena Retail, Raipur",R5,General Trade,1
+C-1299,"Menon General Stores, Raipur",R5,General Trade,1
+C-1300,"Das Retail, Bhopal",R5,General Trade,1

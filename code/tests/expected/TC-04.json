@@ -1,0 +1,19 @@
+{
+  "case_id": "TC-04",
+  "decision": "answered",
+  "reason_code": [
+    "ANSWERED"
+  ],
+  "amount": {
+    "value": 16197152.43,
+    "tolerance": 1.0
+  },
+  "key_numbers": [
+    {
+      "value": 16197152.43,
+      "tolerance": 1.0
+    }
+  ],
+  "must_cite": [],
+  "needs_human": true
+}

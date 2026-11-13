@@ -1,0 +1,16 @@
+{
+  "case_id": "TC-05",
+  "decision": "answered",
+  "reason_code": [
+    "ANSWERED"
+  ],
+  "amount": null,
+  "key_numbers": [
+    {
+      "value": 31.6,
+      "tolerance": 0.05
+    }
+  ],
+  "must_cite": [],
+  "needs_human": true
+}

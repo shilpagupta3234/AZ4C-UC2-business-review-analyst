@@ -1,0 +1,11 @@
+{
+  "case_id": "TC-16",
+  "decision": "cannot_answer",
+  "reason_code": [
+    "AMBIGUOUS_QUESTION"
+  ],
+  "amount": null,
+  "key_numbers": [],
+  "must_cite": [],
+  "needs_human": false
+}

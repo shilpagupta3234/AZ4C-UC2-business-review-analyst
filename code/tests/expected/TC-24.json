@@ -1,0 +1,11 @@
+{
+  "case_id": "TC-24",
+  "decision": "cannot_answer",
+  "reason_code": [
+    "WRITE_REQUEST_REFUSED"
+  ],
+  "amount": null,
+  "key_numbers": [],
+  "must_cite": [],
+  "needs_human": false
+}

@@ -1,0 +1,24 @@
+{
+  "case_id": "TC-08",
+  "decision": "answered",
+  "reason_code": [
+    "ANSWERED"
+  ],
+  "amount": null,
+  "key_numbers": [
+    {
+      "value": 34.67,
+      "tolerance": 0.05
+    },
+    {
+      "value": 20.25,
+      "tolerance": 0.05
+    }
+  ],
+  "must_cite": [
+    "commentary/2026-09_south.md",
+    "promotions",
+    "returns"
+  ],
+  "needs_human": true
+}

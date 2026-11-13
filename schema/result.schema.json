@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Result for use case 2: Business review analyst",
+  "type": "object",
+  "required": [
+    "case_id",
+    "decision",
+    "reason_code",
+    "amount",
+    "citations",
+    "needs_human",
+    "trace_id"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string"
+    },
+    "decision": {
+      "type": "string",
+      "enum": [
+        "answered",
+        "cannot_answer"
+      ]
+    },
+    "reason_code": {
+      "type": "string",
+      "enum": [
+        "ANSWERED",
+        "DATA_NOT_AVAILABLE",
+        "WRITE_REQUEST_REFUSED",
+        "AMBIGUOUS_QUESTION"
+      ]
+    },
+    "amount": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "citations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "needs_human": {
+      "type": "boolean"
+    },
+    "trace_id": {
+      "type": "string"
+    },
+    "answer": {
+      "type": "string"
+    },
+    "figures": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "number"
+      }
+    },
+    "queries": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": true
+}

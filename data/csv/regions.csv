@@ -1,0 +1,6 @@
+region_id,name,is_synthetic
+R1,North,1
+R2,South,1
+R3,East,1
+R4,West,1
+R5,Central,1

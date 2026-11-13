@@ -1,0 +1,38 @@
+[project]
+name = "uc2-business-review-analyst"
+version = "0.1.0"
+description = "AZ4C UC2: multi-agent business review analyst"
+requires-python = ">=3.12"
+
+[tool.ruff]
+line-length = 110
+target-version = "py312"
+extend-exclude = [".az4c"]
+
+[tool.ruff.lint]
+select = [
+    "E", "W",   # pycodestyle
+    "F",        # pyflakes
+    "I",        # import order
+    "B",        # bugbear
+    "UP",       # pyupgrade
+    "SIM",      # simplify
+    "C4",       # comprehensions
+    "PT",       # pytest style
+    "RUF",      # ruff-specific
+]
+ignore = [
+    "RUF001", "RUF002", "RUF003",  # allow the rupee sign and similar symbols
+    "UP038",                       # deprecated rule: tuple isinstance is faster
+]
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra --strict-markers"
+markers = [
+    "integration: runs against the real data pack in DATA_DIR",
+]
